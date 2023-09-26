@@ -1,0 +1,18 @@
+.App {
+    margin: 50px;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
+
+.child {
+    max-width: 550px;
+    flex: 1 0 0 0;
+}
+
+.clock-box {
+    min-width: 30vh;
+    min-height: 30vh;
+}
