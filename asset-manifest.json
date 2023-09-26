@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-clock/static/css/main.cb2e84aa.css",
+    "main.js": "/chess-clock/static/js/main.d2032160.js",
+    "index.html": "/chess-clock/index.html",
+    "main.cb2e84aa.css.map": "/chess-clock/static/css/main.cb2e84aa.css.map",
+    "main.d2032160.js.map": "/chess-clock/static/js/main.d2032160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb2e84aa.css",
+    "static/js/main.d2032160.js"
+  ]
+}
