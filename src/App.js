@@ -234,7 +234,7 @@ const App = () => {
           <b>
             @{" "}
             <a
-              href="https://github.com/bhavik61"
+              href="https://github.com/bhavik-gohil"
               rel="noreferrer"
               target="_blank"
             >
